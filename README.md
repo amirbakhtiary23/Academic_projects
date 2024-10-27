@@ -1,1 +1,1 @@
-# Academic_projects
+A repository for all my Academic Projects
